@@ -1,5 +1,5 @@
 ---
-name: "-異常--.md"
+name: 異常--.md
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
